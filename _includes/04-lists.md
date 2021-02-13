@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+##restaurants##
+1. suki-ya
+2. kfc
+3. kpop chicken
