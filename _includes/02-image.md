@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Image of sunset behind a tree on a hill](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.pixelstalk.net%2Fwp-content%2Fuploads%2Fimages1%2FBest-dark-woods-hd-wallpaper.jpg&f=1&nofb=1)
